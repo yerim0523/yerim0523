@@ -1,6 +1,9 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20YerimLee%20%20&fontAlign=40&fontSize=40&textBg=true&desc=💻%20Front-End%20Developer%20👩‍💻&descAlign=75&descAlignY=50)
 <br><br><br>
 
+<p>
+  <h1  align="center" style="border-bottom: 0 !important;">🥨&nbsp;Tech Stack&nbsp;🥨</h1>
+</p>
 
 <p align='center'>
   <a><img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
