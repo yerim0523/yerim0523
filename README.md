@@ -2,7 +2,7 @@
 <br><br><br>
 
 <p>
-  <h1  align="center" style="border-bottom: 0 !important;">🥨&nbsp;Tech Stack&nbsp;🥨</h1>
+  <h1  align="center" style="border-bottom: white !important;">🥨&nbsp;Tech Stack&nbsp;🥨</h1>
 </p>
 
 <p align='center'>
