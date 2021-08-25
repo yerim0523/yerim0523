@@ -1,5 +1,7 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20YerimLee%20%20&fontAlign=40&fontSize=40&textBg=true&desc=Front-End%20Developer%20👩‍💻&descAlign=75&descAlignY=50)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerim0523&count_bg=%23DB5375&title_bg=%239A6072&icon=github.svg&icon_color=%23E7E7E7&title=++HITS++&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!--
 **yerim0523/yerim0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
