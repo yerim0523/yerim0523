@@ -1,4 +1,4 @@
-### Hi there 👋
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20YerimLee%20%20&fontAlign=40&fontSize=40&textBg=true&desc=Front-End%20Developer%20👩‍💻&descAlign=75&descAlignY=50)
 
 <!--
 **yerim0523/yerim0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
