@@ -2,7 +2,7 @@
 <br><br><br>
 
 <p>
-  <h1  align="center" style="border-bottom: white !important;">🥨&nbsp;Tech Stack&nbsp;🥨</h1>
+  <h3  align="center" style="border-bottom: white !important;">🥨&nbsp;Tech Stack&nbsp;🥨</h3>
 </p>
 
 <p align='center'>
@@ -12,8 +12,8 @@
   <a><img src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <a><img src="https://img.shields.io/badge/Sencha-86BC40.svg?&style=flat-square&logo=sencha&logoColor=white"/></a><br>
-  <a><img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
+  <a><img src="https://img.shields.io/badge/Sencha-86BC40.svg?&style=flat-square&logo=sencha&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"/></a>&nbsp <br>
   <a><img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
